@@ -1,0 +1,7 @@
+{
+  "name": "galeApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
